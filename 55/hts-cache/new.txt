@@ -1,0 +1,6 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+16:41:29	85/85	---M-Z	200	added ('OK')	text/plain	etag:%2245-5dd167b4a4830-gzip%22	https://babskai.carrd.co/robots.txt		(from )
+16:41:29	180049/180049	---MCZ	200	added ('OK')	text/html	date:Wed,%2020%20Apr%202022%2014:05:09%20GMT	https://babskai.carrd.co/	C:/Benim%20Web%20Sitem/55/babskai.carrd.co/index.html	(from )
+16:41:30	49661/49661	---M--	200	added ('OK')	image/jpeg	etag:%22c1fd-5dd167b2b2f40%22	https://babskai.carrd.co/assets/images/card.jpg?v=7bb44d9a	C:/Benim%20Web%20Sitem/55/babskai.carrd.co/assets/images/card64b0.jpg	(from https://babskai.carrd.co/)
+16:41:30	17920/17920	---M--	200	added ('OK')	image/jpeg	etag:%224600-5dd164302eef0%22	https://babskai.carrd.co/assets/images/image01.jpg?v=7bb44d9a	C:/Benim%20Web%20Sitem/55/babskai.carrd.co/assets/images/image0164b0.jpg	(from https://babskai.carrd.co/)
+16:41:30	1611692/1611692	---M--	200	added ('OK')	image/gif	etag:%221897ac-5dd164302bc28%22	https://babskai.carrd.co/assets/images/bg.gif?v=7bb44d9a	C:/Benim%20Web%20Sitem/55/babskai.carrd.co/assets/images/bg64b0.gif	(from https://babskai.carrd.co/)
